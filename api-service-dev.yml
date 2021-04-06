@@ -1,1 +1,4 @@
 profile: booking-default
+config:
+		userPwd: test it ok 
+		
