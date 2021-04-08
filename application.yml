@@ -1,4 +1,2 @@
-profile: booking-default
-
 config:
-    userPwd: test is ok in git hub ,but in default ;
+    userPwd: defalut value in git
